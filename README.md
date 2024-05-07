@@ -27,8 +27,8 @@ We are standardizing usernames across our GitHub instance to streamline user man
 - For vendors/contractors: FirstnameLastnameVendorName
 
 *Examples:*
-- Vendor/Contractor: JohnPhilipsNexer
 - Internal Company Employee: JaneAustenCvT
+- Vendor/Contractor: JohnPhilipsNexer
 
 *Action Steps:*
 - Log into your GitHub account.
